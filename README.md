@@ -87,4 +87,4 @@ A simple WhatsApp User bot.
 ### Thanks To
 
 - [Mr.ken](https://wa.me/670217260) for [Coding the Future 😍](https://)
-- [@Kentech](https://)
+- [@Kentech](https://wa.me/670217260)
