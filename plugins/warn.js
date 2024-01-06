@@ -58,12 +58,12 @@ bot(
     // return await message.send(
     // 	await genButtonMessage(
     // 		[{ id: `warn reset ${user}`, text: 'RESET' }],
-    // 		`⚠️WARNING⚠️\n*User :* @${jidToNum(
+    // 		`🚯LINK DELETED FROM NONE ADMINS🚯\n*User :* @${jidToNum(
     // 			user
     // 		)}\n*Warn :* ${count}\n*Remaining :* ${config.WARN_LIMIT - count}`
     // 	),
-    // 	{ contextInfo: { mentionedJid: [user] } },
-    // 	'button'
-    // )
-  }
+    // 	{ contextInfo:👋You will be kicked out of the group if you dont take THIS WARNING seriouse🤖,No external links are permitted here for none admin, If you have any important Message for the group wish will include a link kindly message any of the group admins, this is for security reasons, THANK YOU. 
+             you can contact the creator of this robot if interested in it *(https://wa.me/670217260)*
+          
+  
 )
