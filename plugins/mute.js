@@ -19,8 +19,8 @@ bot(
 	async (message, match) => {
 		const participants = await message.groupMetadata(message.jid)
 		const isImAdmin = await isAdmin(participants, message.client.user.jid)
-		if (!isImAdmin) return await message.send(`_I'm not admin._`)
-		let msg = message.reply_message.text || 'null'
+		if (!isImAdmin) return await message.send.`ops_`)
+		let msg = message.reply_message.text || `_you "must" be and *admin* to excute certain commands'
 		const [hour, min] = match.split(' ')
 		if (hour == 'info') {
 			const task = await getMute(message.jid, 'mute')
