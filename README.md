@@ -1,4 +1,5 @@
-### WhatsApp MD User Bot
+### Mr.ken WhatsApp 🤖 Robot
+(https://wa.me/670217260)
 
 A simple WhatsApp User bot.
 
@@ -74,7 +75,8 @@ A simple WhatsApp User bot.
              DISABLE_START_MESSAGE = false
              PERSONAL_MESSAGE = null" > config.env
 
-    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
+    - [MR.KEN]
+    - (https://wa.me/670217260)
 
     - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
@@ -84,5 +86,5 @@ A simple WhatsApp User bot.
 
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [Mr.ken](https://wa.me/670217260) for [Coding the Future 😍](https://)
+- [@Kentech](https://)
